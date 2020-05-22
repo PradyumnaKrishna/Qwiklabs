@@ -15,15 +15,14 @@ In this lab, Two username will be given. The password given is password of both 
 This lab has minimum time requirement of 2-3 minutes because of only one command that is the creation of cloud sql vm.
 The process is divided into 2 stage:
 first run in local system using gcloud and second run through ssh for sql server access and running sql commands.
-1. Run the script and login and enter Project ID when asked.
+Run the script and login and enter Project ID when asked.
 * **Note**: Same as above
-2. When we proceed to ssh, we simply copy commands from **copypaste** file given in **2** directory and paste it to ssh prompt for running the commands
-* **Note**: run the first command given in **copypaste** separately because first command will ask for password. Simply press enter key when ask for password and then run second command that is *SQL Command*
 
 ## 3rd LAB : [Multiple VPC Networks](https://www.qwiklabs.com/focuses/1230?parent=catalog)
 This lab is easiest lab with minimum effort.
 Just run the script and login and paste the project ID and start clicking check points.
 
 ## 4th LAB : [Cloud Monitoring: Qwik Start](https://www.qwiklabs.com/focuses/10599?parent=catalog)
+Just run the script &
 All the commands for this lab is not available on gcloud command line.
 So you need to follow procedure to create Alerting & Uptime Check in cloud monitoring from Google Cloud Console.
