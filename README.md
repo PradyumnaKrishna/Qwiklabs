@@ -15,6 +15,10 @@ I have also played Google Cloud Computing Foundations Speedrun 1. In this you ha
  | 3 | Google Cloud Computing Foundations Speedrun 1 | Creating a Virtual Machine | :heavy_check_mark: | :heavy_check_mark: |
  | 4 | Google Cloud Computing Foundations Speedrun 1 | App Engine: Qwik Start - Python  | :heavy_check_mark: | :heavy_check_mark: |
  | 5 | Google Cloud Computing Foundations Speedrun 1 | Cloud Functions: Qwik Start - Command Line | :heavy_check_mark: | :heavy_check_mark: |
- 
+ | 6 | [#GoogleCloudReady Speedrun 3](https://www.qwiklabs.com/games/950) | [Cloud IAM: Qwik Start](https://www.qwiklabs.com/focuses/551?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: |
+ | 7 | [#GoogleCloudReady Speedrun 3](https://www.qwiklabs.com/games/950) | [Introduction to SQL for BigQuery and Cloud SQL](https://www.qwiklabs.com/focuses/2802?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: |
+ | 8 | [#GoogleCloudReady Speedrun 3](https://www.qwiklabs.com/games/950) | [Multiple VPC Networks](https://www.qwiklabs.com/focuses/1230?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: |
+ | 9 | [#GoogleCloudReady Speedrun 3](https://www.qwiklabs.com/games/950) | [Cloud Monitoring: Qwik Start](https://www.qwiklabs.com/focuses/10599?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: |
+
 # How to execute Scripts
 Script can be used in linux or macos both only need to install gcloud sdk.
