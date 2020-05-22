@@ -10,7 +10,7 @@ I have also played Google Cloud Computing Foundations Speedrun 1. In this you ha
 
  | No. | Quest | Lab | Scripts | Commands |
  | --- | ----- | --- | ------- | -------- | 
- | 1 | Google Cloud Essentials | Challange Lab | :heavy_check_mark: | :heavy_multiplication_x: |
+ | 1 | Google Cloud Essentials | Challange Lab | :heavy_multiplication_x: | :heavy_check_mark: |
  | 2 | Google Cloud Computing Foundations Speedrun 1 | Getting Started with Cloud Shell & gcloud | :heavy_check_mark: | :heavy_check_mark: |
  | 3 | Google Cloud Computing Foundations Speedrun 1 | Creating a Virtual Machine | :heavy_check_mark: | :heavy_check_mark: |
  | 4 | Google Cloud Computing Foundations Speedrun 1 | App Engine: Qwik Start - Python  | :heavy_check_mark: | :heavy_check_mark: |
