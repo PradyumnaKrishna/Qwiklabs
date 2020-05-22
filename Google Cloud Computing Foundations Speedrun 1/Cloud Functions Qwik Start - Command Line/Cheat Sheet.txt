@@ -1,0 +1,10 @@
+Cheat Sheet To be executes on cloud shell only.
+
+echo 'exports.helloWorld = function helloWorld (event, callback) {
+  console.log(`My Cloud Function: ${JSON.stringify(event.data.message)}`);
+  callback();
+};' > index.js
+
+gsutil mb -p $ID gs://$ID
+
+gcloud functions deploy helloWorld --stage-bucket $ID  --trigger-topic hello_world  --runtime nodejs6

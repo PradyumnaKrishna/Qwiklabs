@@ -1,0 +1,11 @@
+Cheat Sheet To be executes on cloud shell only.
+
+git clone https://github.com/GoogleCloudPlatform/python-docs-samples
+
+cd python-docs-samples/appengine/standard_python37/hello_world
+
+dev_appserver.py app.yaml
+
+cd python-docs-samples/appengine/standard_python37/hello_world
+
+gcloud app deploy
