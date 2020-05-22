@@ -25,6 +25,8 @@ This lab is easiest lab with minimum effort.
 Just run the script and login and paste the project ID and start clicking check points.
 
 ## 4th LAB : [Cloud Monitoring: Qwik Start](https://www.qwiklabs.com/focuses/10599?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=5457255)
-#### Script for this lab is still in development.
+All the commands for this lab is not available on gcloud command line.
+So you need to follow procedure to create Alerting & Uptime Check in cloud monitoring from Google Cloud Console.
+
 
 
