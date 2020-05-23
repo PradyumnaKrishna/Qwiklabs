@@ -22,3 +22,6 @@ I have also played Google Cloud Computing Foundations Speedrun 1. In this you ha
 
 # How to execute Scripts
 Script can be used in linux or macos both only need to install gcloud sdk.
+
+# Open to Contribute and Sponsor for updates.
+# Tell us the bugs and problems in the script so that we can correct it
