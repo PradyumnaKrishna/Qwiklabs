@@ -8,9 +8,9 @@ I have also played Google Cloud Computing Foundations Speedrun 1. In this you ha
 Soon we also try to use some better way to perform labs.
 like using pre defined templates to faster, improved and bug free execution.
 
-# [List of Labs](https://github.com/PradyumnaKrishna/Qwiklabs/LABS.md)
+# [List of Labs](https://github.com/PradyumnaKrishna/Qwiklabs/blob/master/LABS.md)
 This section has been moved to new location
-[click here](https://github.com/PradyumnaKrishna/Qwiklabs/LABS.md)
+[click here](https://github.com/PradyumnaKrishna/Qwiklabs/blob/master/LABS.md)
 
 # How to execute Scripts
 Script can be used in linux or macos both only need to install gcloud sdk.
