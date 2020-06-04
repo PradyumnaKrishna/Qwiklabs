@@ -1,0 +1,9 @@
+pip install --upgrade google-cloud-pubsub
+
+wget http://13.92.224.233/publisher.py
+wget http://13.92.224.233/subscriber.py
+
+export PROJECT_ID=$(gcloud info --format='value(config.project)')
+
+python publisher.py $PROJECT_ID create MyTopic
+python subscriber.py $PROJECT_ID create MyTopic MySub
