@@ -1,4 +1,4 @@
 #!/bin/sh
 gcloud init < a
 
-gcloud alpha cloud-shell ssh 
+gcloud alpha cloud-shell ssh < cp
