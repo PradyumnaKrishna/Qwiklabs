@@ -2,7 +2,7 @@
 
  | No. | Quest | Lab | Scripts | Commands |
  | --- | ----- | --- | ------- | -------- | 
- | 1 | Google Cloud Essentials | Challange Lab | :heavy_multiplication_x: | :heavy_check_mark: |
+ | 1 | Google Cloud Essentials | Challange Lab | :heavy_multiplication_x: | [:heavy_check_mark:](GC\ Essentials\ -\ Challenge\ Lab.txt) |
  | 2 | Google Cloud Computing Foundations Speedrun 1 | [Getting Started with Cloud Shell & gcloud](https://www.qwiklabs.com/focuses/563?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: |
  | 3 | Google Cloud Computing Foundations Speedrun 1 | [Creating a Virtual Machine](https://www.qwiklabs.com/focuses/3563?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: |
  | 4 | Google Cloud Computing Foundations Speedrun 1 | [App Engine: Qwik Start - Python](https://www.qwiklabs.com/focuses/1014?parent=catalog)  | :heavy_check_mark: | :heavy_check_mark: |
