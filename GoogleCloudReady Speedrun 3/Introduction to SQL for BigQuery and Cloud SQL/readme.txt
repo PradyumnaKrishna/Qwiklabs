@@ -1,1 +1,1 @@
-This lab script have some background process running. So wait till the process finish.
+This lab is working well
