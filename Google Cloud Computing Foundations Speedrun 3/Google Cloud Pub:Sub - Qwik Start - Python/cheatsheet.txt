@@ -1,8 +1,7 @@
 pip install --upgrade google-cloud-pubsub
 
-wget http://13.92.224.233/publisher.py
-wget http://13.92.224.233/subscriber.py
-
+git clone https://github.com/GoogleCloudPlatform/python-docs-samples.git
+cd python-docs-samples/pubsub/cloud-client/
 
 export PROJECT_ID=$(gcloud info --format='value(config.project)')
 
