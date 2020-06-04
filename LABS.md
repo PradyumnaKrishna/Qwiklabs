@@ -11,3 +11,7 @@
  | 7 | #GoogleCloudReady Speedrun 3 | [Introduction to SQL for BigQuery and Cloud SQL](https://www.qwiklabs.com/focuses/2802?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: |
  | 8 | #GoogleCloudReady Speedrun 3 | [Multiple VPC Networks](https://www.qwiklabs.com/focuses/1230?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: |
  | 9 | #GoogleCloudReady Speedrun 3 | [Cloud Monitoring: Qwik Start](https://www.qwiklabs.com/focuses/10599?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: |
+ | 10 | Google Cloud Computing Foundations Speedrun 2 | [Cloud Storage Qwik Start - CLI:SDK](https://www.qwiklabs.com/focuses/569?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: |
+ | 11 | Google Cloud Computing Foundations Speedrun 3 | [Google Cloud Pub/Sub: Qwik Start - Python](https://www.qwiklabs.com/focuses/2775?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: |
+ | 12 | Google Cloud Computing Foundations Speedrun 3 | [VPC Networking Fundamentals](https://www.qwiklabs.com/focuses/1229?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: |
+ | 13 | Google Cloud Computing Foundations Speedrun 3 | [Multiple VPC Networks](https://www.qwiklabs.com/focuses/1230?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: |
