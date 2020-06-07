@@ -1,17 +1,20 @@
 # Quest and Labs Available
 
- | No. | Quest | Lab | Scripts | Commands |
- | --- | ----- | --- | ------- | -------- |
- | 1 | Google Cloud Essentials | Challange Lab | :heavy_multiplication_x: | [:heavy_check_mark:](GC%20Essentials%20-%20Challenge%20Lab.txt) |
- | 2 | Google Cloud Computing Foundations Speedrun 1 | [Getting Started with Cloud Shell & gcloud](https://www.qwiklabs.com/focuses/563?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: |
- | 3 | Google Cloud Computing Foundations Speedrun 1 | [Creating a Virtual Machine](https://www.qwiklabs.com/focuses/3563?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: |
- | 4 | Google Cloud Computing Foundations Speedrun 1 | [App Engine: Qwik Start - Python](https://www.qwiklabs.com/focuses/1014?parent=catalog)  | :heavy_check_mark: | :heavy_check_mark: |
- | 5 | Google Cloud Computing Foundations Speedrun 1 | [Cloud Functions: Qwik Start - Command Line](https://www.qwiklabs.com/focuses/916?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: |
- | 6 | #GoogleCloudReady Speedrun 3 | [Cloud IAM: Qwik Start](https://www.qwiklabs.com/focuses/551?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: |
- | 7 | #GoogleCloudReady Speedrun 3 | [Introduction to SQL for BigQuery and Cloud SQL](https://www.qwiklabs.com/focuses/2802?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: |
- | 8 | #GoogleCloudReady Speedrun 3 | [Multiple VPC Networks](https://www.qwiklabs.com/focuses/1230?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: |
- | 9 | #GoogleCloudReady Speedrun 3 | [Cloud Monitoring: Qwik Start](https://www.qwiklabs.com/focuses/10599?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: |
- | 10 | Google Cloud Computing Foundations Speedrun 2 | [Cloud Storage Qwik Start - CLI:SDK](https://www.qwiklabs.com/focuses/569?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: |
- | 11 | Google Cloud Computing Foundations Speedrun 3 | [Google Cloud Pub/Sub: Qwik Start - Python](https://www.qwiklabs.com/focuses/2775?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: |
- | 12 | Google Cloud Computing Foundations Speedrun 3 | [VPC Networking Fundamentals](https://www.qwiklabs.com/focuses/1229?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: |
- | 13 | Google Cloud Computing Foundations Speedrun 3 | [Multiple VPC Networks](https://www.qwiklabs.com/focuses/1230?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: |
+ | No. | Quest | Lab | Script | Cheatsheet | Location |
+ | --- | ----- | --- | ------ | ---------- | -------- |
+ | 1 | Google Cloud Essentials | [Challange Lab](https://www.qwiklabs.com/focuses/1734?parent=catalog) | :heavy_multiplication_x: | :heavy_check_mark: | [HERE](GC%20Essentials%20-%20Challenge%20Lab.txt) |
+ | 2 | Google Cloud Computing Foundations Speedrun 1 | [Getting Started with Cloud Shell & gcloud](https://www.qwiklabs.com/focuses/563?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Google%20Cloud%20Computing%20Foundations%20Speedrun%201/Getting%20Started%20with%20Cloud%20Shell%20%26%20gcloud) |
+ | 3 | Google Cloud Computing Foundations Speedrun 1 | [Creating a Virtual Machine](https://www.qwiklabs.com/focuses/3563?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Google%20Cloud%20Computing%20Foundations%20Speedrun%201/Creating%20a%20Virtual%20Machine) |
+ | 4 | Google Cloud Computing Foundations Speedrun 1 | [App Engine: Qwik Start - Python](https://www.qwiklabs.com/focuses/1014?parent=catalog)  | :heavy_check_mark: | :heavy_check_mark: | [HERE](Google%20Cloud%20Computing%20Foundations%20Speedrun%201/App%20Engine%20Qwik%20Start%20-%20Python) |
+ | 5 | Google Cloud Computing Foundations Speedrun 1 | [Cloud Functions: Qwik Start - Command Line](https://www.qwiklabs.com/focuses/916?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Google%20Cloud%20Computing%20Foundations%20Speedrun%201/Cloud%20Functions%20Qwik%20Start%20-%20Command%20Line) |
+ | 6 | #GoogleCloudReady Speedrun 3 | [Cloud IAM: Qwik Start](https://www.qwiklabs.com/focuses/551?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](GoogleCloudReady%20Speedrun%203/Cloud%20IAM%20%20Qwik%20Start) |
+ | 7 | #GoogleCloudReady Speedrun 3 | [Introduction to SQL for BigQuery and Cloud SQL](https://www.qwiklabs.com/focuses/2802?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](GoogleCloudReady%20Speedrun%203/Introduction%20to%20SQL%20for%20BigQuery%20and%20Cloud%20SQL) |
+ | 8 | #GoogleCloudReady Speedrun 3 | [Multiple VPC Networks](https://www.qwiklabs.com/focuses/1230?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](GoogleCloudReady%20Speedrun%203/Multiple%20VPC%20Networks) |
+ | 9 | #GoogleCloudReady Speedrun 3 | [Cloud Monitoring: Qwik Start](https://www.qwiklabs.com/focuses/10599?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](GoogleCloudReady%20Speedrun%203/Cloud%20Monitoring%20%20Qwik%20Start) |
+ | 10 | Google Cloud Computing Foundations Speedrun 2 | [Cloud Storage Qwik Start - CLI:SDK](https://www.qwiklabs.com/focuses/569?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Google%20Cloud%20Computing%20Foundations%20Speedrun%202/Cloud%20Storage%20Qwik%20Start%20-%20CLI:SDK) |
+ | 11 | Google Cloud Computing Foundations Speedrun 3 | [Google Cloud Pub/Sub: Qwik Start - Python](https://www.qwiklabs.com/focuses/2775?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Google%20Cloud%20Computing%20Foundations%20Speedrun%203/Google%20Cloud%20Pub:Sub%20-%20Qwik%20Start%20-%20Python) |
+ | 12 | Google Cloud Computing Foundations Speedrun 3 | [VPC Networking Fundamentals](https://www.qwiklabs.com/focuses/1229?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Google%20Cloud%20Computing%20Foundations%20Speedrun%203/VPC%20Networking%20Fundamentals) |
+ | 13 | Google Cloud Computing Foundations Speedrun 3 | [Multiple VPC Networks](https://www.qwiklabs.com/focuses/1230?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Google%20Cloud%20Computing%20Foundations%20Speedrun%203/VPC%20Networking%20Fundamentals) |
+ | 14 | Secure your Cloud | [Cloud IAM: Qwik Start](https://www.qwiklabs.com/focuses/551?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Secure%20your%20Cloud/Cloud%20IAM%20%20Qwik%20Start) |
+ | 15 | Secure your Cloud | [Getting Started with Cloud KMS](https://www.qwiklabs.com/focuses/1713?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Secure%20your%20Cloud/Getting%20Started%20with%20Cloud%20KMS) |
+ | 16 | Secure your Cloud | [Securing Google Cloud with CFT Scorecard](https://www.qwiklabs.com/focuses/10437?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Secure%20your%20Cloud/Securing%20Google%20Cloud%20with%20CFT%20Scorecard) |
