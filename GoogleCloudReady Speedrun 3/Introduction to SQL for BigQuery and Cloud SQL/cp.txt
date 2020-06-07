@@ -1,4 +1,0 @@
-gcloud sql connect  qwiklabs-demo --user=root
-
-CREATE DATABASE bike;
-

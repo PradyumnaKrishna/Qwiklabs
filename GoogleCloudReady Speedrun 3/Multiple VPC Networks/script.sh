@@ -21,10 +21,7 @@
 ###################################################################################################################
 
 
-gcloud init < a.txt
-#echo -n "Project ID > "
-#read ID
-#gcloud config set core/project $ID
+gcloud init < a
 
 gcloud compute networks create managementnet --subnet-mode=custom
 gcloud compute networks create privatenet --subnet-mode=custom

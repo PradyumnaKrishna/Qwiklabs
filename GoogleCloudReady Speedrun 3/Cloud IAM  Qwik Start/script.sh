@@ -20,7 +20,7 @@
 # DEALINGS IN THE SOFTWARE.                                                                                       #
 ###################################################################################################################
 
-gcloud init < a.txt
+gcloud init < a
 
 echo -n "Project ID > "
 read ID

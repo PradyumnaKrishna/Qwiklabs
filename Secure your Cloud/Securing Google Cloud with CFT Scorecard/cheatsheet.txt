@@ -1,0 +1,19 @@
+To be execute only on cloud shell
+
+export GOOGLE_PROJECT=$DEVSHELL_PROJECT_ID
+export CAI_BUCKET_NAME=cai-$GOOGLE_PROJECT
+
+gcloud services enable cloudasset.googleapis.com \
+    --project $GOOGLE_PROJECT
+
+gsutil mb -l us-central1 -p $GOOGLE_PROJECT gs://$CAI_BUCKET_NAME
+
+gcloud asset export \
+    --output-path=gs://$CAI_BUCKET_NAME/resource_inventory.json \
+    --content-type=resource \
+    --project=$GOOGLE_PROJECT
+
+gcloud asset export \
+    --output-path=gs://$CAI_BUCKET_NAME/iam_inventory.json \
+    --content-type=iam-policy \
+    --project=$GOOGLE_PROJECT
