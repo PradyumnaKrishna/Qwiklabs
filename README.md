@@ -1,22 +1,32 @@
 # Qwiklabs
-I started using Qwiklabs few months ago and started practicing with google cloud platform. In this repo i share you some tips, tricks and scripts to perform lab in a better and accurate way.
+- I started using Qwiklabs few months ago and started practicing with google cloud platform. In this repo I share you some tips, tricks and scripts to perform lab in a better and accurate way.
 
-In this repo I am sharing you some main Quest Scripts and Cheat sheet so you can easily perform lab without any issue
+- In this repo I am sharing you some main **Quest Scripts and Cheat sheet** so you can easily perform lab without any issue
 
-I have also played Google Cloud Computing Foundations Speedrun 1. In this you have to complete lab very fast. So, I have prepared a cheat sheet and some script with the help of gcloud command line so you can perform the labs very quickly.
+- I share Scripts to complete labs in a faster way just in a few minutes which help you in **Qwiklabs Speedrun** and you can also start winning prizes.
 
-Soon we also try to use some better way to perform labs.
+- Soon we also try to use some better way to perform labs.
 like using pre defined templates to faster, improved and bug free execution.
 
-# [List of Labs](LABS.md)
-This section has been moved to new location
-[click here](LABS.md)
+- **[List of Labs Available](LABS.md)**
 
 # How to execute Scripts
-Script can be used in linux or macos both only need to install gcloud sdk.
+Script can be used in linux or macos but only need to install gcloud sdk.
+Any other Further Requirements are stated with the labs.
 
-# Open to Contribute and Sponsor for updates.
-Read our contribution terms and condition
+# Support Us
+- **Tell us the bugs and problems in the script so that we can correct it**
+Also you can suggest some improvements becuase there are lots of bugs in google cloud sdk and if you can fix then contribute here.
 
-# Tell us the bugs and problems in the script so that we can correct it
-Also you can suggest fixes becuase there are lots of problem in google cloud sdk
+- **Open to Contribute and follow me for updates**
+
+- **Promote this repo, share it and tell others**
+
+- **Sponser This Repo**
+
+- **Donate Us [here](http://paypal.me/pradyumnakrishna)**
+
+# Credits
+- **[Pradyumna Krishna](http://pradyumnakrishna.github.io)**
+
+- **[Abhinandan Arya](http://github.com/abhinandanarya06)**
