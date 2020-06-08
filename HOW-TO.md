@@ -9,6 +9,7 @@
   - [ ] MacOS/Linux terminal
   - [ ] Google Cloud SDK
   - [ ] Other Lab Requirements
+- **Note** : Value of your Project can be change from 6-7 or anything else so edit the `a` file in lab folder and set the value of Project as according to your Lab Project ID
 
 **To use Cheatsheet follow the steps**
 - Open **Cloud Shell**
