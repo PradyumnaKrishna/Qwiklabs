@@ -24,9 +24,7 @@
 gcloud init < a
 
 
-echo -n "Project ID > "
-read ID
-gcloud config set project $ID
+export ID=$(gcloud info --format='value(config.project)')
 
 gsutil mb -p $ID gs://$ID;
 gsutil cp end_station_data.csv gs://$ID/
