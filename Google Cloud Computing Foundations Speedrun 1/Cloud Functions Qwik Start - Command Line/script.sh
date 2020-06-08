@@ -22,11 +22,11 @@
 
 gcloud init < a
 
-echo -n "Project ID > "
-read ID
+export ID=$(gcloud info --format='value(config.project)')
 
 gsutil mb -p $ID gs://$ID
 
 #gcloud functions deploy helloWorld --project $ID --stage-bucket $ID  --trigger-topic hello_world --region=us-central1
+#This command is not executing. So execute this command on cloud shell
 
-#gcloud alpha cloud-shell ssh
+gcloud alpha cloud-shell ssh < cp
