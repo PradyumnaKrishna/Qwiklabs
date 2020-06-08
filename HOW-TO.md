@@ -3,8 +3,12 @@
 **To use scripts follow the steps**
 - Download the lab script
 - Open the script folder and open **terminal** there
-- Type command : **chmod +x script.sh**
-- Now use script by typing command : **./script.sh** in the terminal
+- Type command : `chmod +x script.sh`
+- Now use script by typing command : `./script.sh` in the terminal
+- **Prerequisite**
+  - [ ] MacOS/Linux terminal
+  - [ ] Google Cloud SDK
+  - [ ] Other Lab Requirements
 
 **To use Cheatsheet follow the steps**
 - Open **Cloud Shell**
