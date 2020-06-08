@@ -1,3 +1,5 @@
+To be execute in Cloud Shell only
+
 gcloud container clusters create nucleus-backend \
           --num-nodes 1 \
           --network nucleus-vpc \
