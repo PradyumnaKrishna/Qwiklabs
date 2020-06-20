@@ -1,3 +1,5 @@
+To be execute on Cloud Shell only.
+
 pip install --upgrade google-cloud-pubsub
 
 git clone https://github.com/GoogleCloudPlatform/python-docs-samples.git

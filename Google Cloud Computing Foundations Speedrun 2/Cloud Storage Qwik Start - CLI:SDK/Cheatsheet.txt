@@ -1,0 +1,13 @@
+To be execute on Cloud Shell only.
+
+export ID=$(gcloud info --format='value(config.project)')
+
+gsutil mb gs://$ID
+
+wget --output-document ada.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/800px-Ada_Lovelace_portrait.jpg
+
+gsutil cp ./ada.jpg gs://$ID/ada.jpg
+
+gsutil cp gs://$ID/ada.jpg gs://$ID/image-folder/
+
+gsutil acl ch -u AllUsers:R gs://$ID/ada.jpg
