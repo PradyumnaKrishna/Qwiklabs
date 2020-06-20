@@ -20,7 +20,6 @@
 # DEALINGS IN THE SOFTWARE.                                                                                       #
 ###################################################################################################################
 
-
 gcloud init < a
 
 gcloud compute networks create managementnet --subnet-mode=custom
