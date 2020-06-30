@@ -21,9 +21,9 @@
 ###################################################################################################################
 
 
-gcloud init < initialise
+gcloud init < a
 
-gcloud config set dataproc/region global &
+gcloud config set dataproc/region global
 
 gcloud dataproc clusters create example-cluster
 
