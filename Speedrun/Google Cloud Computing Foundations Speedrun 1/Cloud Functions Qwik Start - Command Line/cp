@@ -1,0 +1,8 @@
+echo 'exports.helloWorld = function helloWorld (event, callback) {
+  console.log(`My Cloud Function: ${JSON.stringify(event.data.message)}`);
+  callback();
+};' > index.js
+
+export ID=$(gcloud info --format='value(config.project)')
+
+gcloud functions deploy helloWorld --project $ID --stage-bucket $ID  --trigger-topic hello_world --runtime nodejs6

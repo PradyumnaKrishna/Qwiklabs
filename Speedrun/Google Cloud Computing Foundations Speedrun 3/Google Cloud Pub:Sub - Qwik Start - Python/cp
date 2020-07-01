@@ -1,0 +1,9 @@
+pip install --upgrade google-cloud-pubsub
+
+git clone https://github.com/GoogleCloudPlatform/python-docs-samples.git
+cd python-docs-samples/pubsub/cloud-client/
+
+export PROJECT_ID=$(gcloud info --format='value(config.project)')
+
+python publisher.py $PROJECT_ID create MyTopic
+python subscriber.py $PROJECT_ID create MyTopic MySub
