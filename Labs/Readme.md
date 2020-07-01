@@ -24,4 +24,4 @@
 | [VPC Networking Fundamentals](https://www.qwiklabs.com/focuses/1229?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](VPC%20Networking%20Fundamentals) |
 | [VPC Networks - Controlling Access](https://www.qwiklabs.com/focuses/1231?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](VPC%20Networks%20-%20Controlling%20Access) |
 
-**Total Labs Available : 21**
+***Total Labs Available : 21***
