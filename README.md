@@ -10,7 +10,7 @@ like using pre defined templates to faster, improved and bug free execution.
 
 - **[How to Use Scripts & CheatSheet](HOW-TO.md)**
 
-- **[List of Labs Available](LABS.md)**
+- **[List of Labs Available](Labs/Readme.md)**
 
 # Support Us
 - **Tell us the bugs and problems in the script so that we can correct it**
