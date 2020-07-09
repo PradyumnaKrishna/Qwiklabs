@@ -8,7 +8,7 @@
 - Soon we also try to use some better way to perform labs.
 like using pre defined templates to faster, improved and bug free execution.
 
-- **[List of Labs Available](Labs/Readme.md) | [List of Quests Available](Quest/Readme.md) | [List of Speedrun Available](Speedrun/Readme.md)**
+- **[List of Labs Available](Labs/Readme.md) | [List of Quests Available](Quests/Readme.md) | [List of Speedrun Available](Speedrun/Readme.md)**
 
 - **[How to Use Scripts & CheatSheet](HOW-TO.md)**
 
