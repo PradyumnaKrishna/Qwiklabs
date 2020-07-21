@@ -17,7 +17,7 @@ like using pre defined templates to faster, improved and bug free execution.
 
 - **[Changelog](Changelog.md)**
 
-# Support Us
+## Support Us
 - **Tell us the bugs and problems in the script so that we can correct it**
 Also you can suggest some improvements becuase there are lots of bugs in google cloud sdk and if you can fix then contribute here.
 
@@ -29,7 +29,7 @@ Also you can suggest some improvements becuase there are lots of bugs in google 
 
 - **[Donate Us][Donate]**
 
-# Credits
+## Credits
 - **[Pradyumna Krishna][Pradyumna]**
 
 - **[Abhinandan Arya][Abhinandan]**
