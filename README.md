@@ -27,10 +27,10 @@ Also you can suggest some improvements becuase there are lots of bugs in google 
 
 - **Sponser This Repo**
 
-- **[Donate Us](Donate)**
+- **[Donate Us][Donate]**
 
 # Credits
-- **[Pradyumna Krishna](Pradyumna)**
+- **[Pradyumna Krishna][Pradyumna]**
 
 - **[Abhinandan Arya][Abhinandan]**
 
