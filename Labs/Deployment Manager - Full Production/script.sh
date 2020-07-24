@@ -25,7 +25,7 @@ read -n 1 -r -s -p $'Press enter to continue\n'
 
 # Initializes the Configuration
 gcloud init < a
-ID=$(gcloud info --format='value(config.project)')&
+ID=$(gcloud info --format='value(config.project)')
 
 # Deploy Application
 cd Deployment/nodejs/python
