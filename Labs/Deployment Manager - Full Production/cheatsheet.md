@@ -2,13 +2,8 @@
 
 **1. Clone Repository**
 
-    mkdir ~/dmsamples
-
-    cd ~/dmsamples
-
     git clone https://github.com/PradyumnaKrishna/Qwiklabs.git
-
-    cd ~/dmsamples/Qwiklabs/Labs/Deployment\ Manager\ -\ Full\ Production/Deployment/nodejs/python/
+    cd Qwiklabs/Labs/Deployment\ Manager\ -\ Full\ Production/Deployment/nodejs/python/
 
 **2. Run the Application**
 
