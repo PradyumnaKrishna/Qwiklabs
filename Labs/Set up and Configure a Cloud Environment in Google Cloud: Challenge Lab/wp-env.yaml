@@ -1,0 +1,19 @@
+kind: PersistentVolumeClaim
+apiVersion: v1
+metadata:
+  name: wordpress-volumeclaim
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 200Gi
+---
+apiVersion: v1
+kind: Secret
+metadata:
+  name: database
+type: Opaque
+stringData:
+  username: wp_user
+  password: stormwind_rules

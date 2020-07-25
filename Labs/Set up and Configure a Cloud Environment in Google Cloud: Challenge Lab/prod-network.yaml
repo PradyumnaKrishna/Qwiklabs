@@ -1,0 +1,8 @@
+imports:
+- path: prod-network.jinja
+
+resources:
+- name: prod-network
+  type: prod-network.jinja
+  properties:
+    region: us-central1
