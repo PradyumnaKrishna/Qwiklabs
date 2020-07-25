@@ -1,0 +1,2 @@
+
+CREATE DATABASE wordpress; GRANT ALL PRIVILEGES ON wordpress.* TO "wp_user"@"%" IDENTIFIED BY "stormwind_rules"; FLUSH PRIVILEGES;

@@ -1,0 +1,22 @@
+resources:
+{# Network #}
+- name: griffin-prod-vpc
+  type: gcp-types/compute-v1:networks
+  properties:
+    description: "Griffin Production VPC"
+    autoCreateSubnetworks: false
+
+{# Subnets #}
+- name: griffin-prod-wp
+  type: gcp-types/compute-v1:subnetworks
+  properties:
+    ipCidrRange: 192.168.48.0/20
+    network: $(ref.griffin-prod-vpc.selfLink)
+    region: {{ properties['region'] }}
+
+- name: griffin-prod-mgmt
+  type: gcp-types/compute-v1:subnetworks
+  properties:
+    ipCidrRange: 192.168.64.0/20
+    network: $(ref.griffin-prod-vpc.selfLink)
+    region: {{ properties['region'] }}
