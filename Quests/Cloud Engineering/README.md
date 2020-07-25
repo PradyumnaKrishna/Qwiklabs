@@ -13,7 +13,7 @@ There are cheat sheet and script available for all labs.
  - **2nd LAB : [Introduction to SQL for BigQuery and Cloud SQL](https://www.qwiklabs.com/focuses/2802?parent=catalog)**
 	- This lab is working fine. No need to add anything or change
 
- - **3st LAB : [Multiple VPC Networks](https://www.qwiklabs.com/focuses/1230?parent=catalog)**
+ - **3rd LAB : [Multiple VPC Networks](https://www.qwiklabs.com/focuses/1230?parent=catalog)**
      - This lab is working fine. No need to add anything or change
 
  - **4th LAB : [Cloud Monitoring: Qwik Start](https://www.qwiklabs.com/focuses/10599?parent=catalog)**

@@ -1,3 +1,5 @@
+<img src="https://cdn.qwiklabs.com/TUej2qXnVqd%2FM8M9My0q%2FZEKg8BAptaocfML34f6n2w%3D" alt="Perform Foundational Data, ML, and AI Tasks in Google Cloud" title="Perform Foundational Data, ML, and AI Tasks in Google Cloud" align="right" height="123" width="150"/>
+
 # Perform Foundational Data, ML, and AI Tasks in Google Cloud
 
 There are 7 Steps in this [**Quest**](https://www.qwiklabs.com/quests/117)
@@ -11,7 +13,7 @@ There are cheat sheet and script available for several labs
  - **2nd LAB : [Dataprep: Qwik Start](https://www.qwiklabs.com/focuses/584?parent=catalog)**
 	- **Lab Unavailable**
 
- - **3st LAB :**
+ - **3rd LAB :**
  
     **[Dataflow: Qwik Start - Templates](https://www.qwiklabs.com/focuses/1101?parent=catalog)**
      - This lab is working fine. No need to add anything or change

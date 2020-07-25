@@ -1,3 +1,5 @@
+<img src="https://cdn.qwiklabs.com/yeuwjjr8cqJ1UAd%2Boum2Tg27EcobxnBt5Q2r27cU5RU%3D" alt="Baseline: Data, ML, AI" title="Baseline: Data, ML, AI" align="right" height="100" width="100"/>
+
 # Baseline: Data, ML, AI
 
 There are 6 Steps in this [**Quest**](https://www.qwiklabs.com/quests/34)
@@ -11,7 +13,7 @@ There are cheat sheet and script available for several labs
  - **2nd LAB : [Dataprep: Qwik Start](https://www.qwiklabs.com/focuses/584?parent=catalog)**
 	- **Lab Unavailable**
 
- - **3st LAB :**
+ - **3rd LAB :**
  
     **[Dataflow: Qwik Start - Templates](https://www.qwiklabs.com/focuses/1101?parent=catalog)**
      - This lab is working fine. No need to add anything or change
