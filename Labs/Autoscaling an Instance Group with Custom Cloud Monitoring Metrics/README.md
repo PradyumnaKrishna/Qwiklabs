@@ -1,4 +1,5 @@
 **LAB : [Autoscaling an Instance Group with Custom Cloud Monitoring Metrics](https://www.qwiklabs.com/focuses/611?parent=catalog)**
- - This lab is working fine. No need to add anything or change
+ - **Prerequirities**
+   - [ ] **Gcloud Beta** (To install it type `sudo gcloud components install beta`)
 
 **[How to use Scripts and Cheatsheet](/HOW-TO.md)**
