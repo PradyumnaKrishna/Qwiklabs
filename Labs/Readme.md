@@ -4,6 +4,7 @@
 | --- | ------- | ----------- | -------- |
 | [AI Platform: Qwik Start](https://www.qwiklabs.com/focuses/581?parent=catalog) | :heavy_multiplication_x: | :heavy_check_mark: | [HERE](VPC%20Networks%20-%20Controlling%20Access) |
 | [App Engine: Qwik Start - Python](https://www.qwiklabs.com/focuses/1014?parent=catalog)  | :heavy_check_mark: | :heavy_check_mark: | [HERE](App%20Engine%20Qwik%20Start%20-%20Python) |
+| [Autoscaling an Instance Group with Custom Cloud Monitoring Metrics](https://www.qwiklabs.com/focuses/611?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Autoscaling%20an%20Instance%20Group%20with%20Custom%20Cloud%20Monitoring%20Metrics) |
 | [Cloud Functions: Qwik Start - Command Line](https://www.qwiklabs.com/focuses/916?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Cloud%20Functions%20Qwik%20Start%20-%20Command%20Line) |
 | [Cloud IAM: Qwik Start](https://www.qwiklabs.com/focuses/551?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Cloud%20IAM%20%20Qwik%20Start) |
 | [Cloud Monitoring: Qwik Start](https://www.qwiklabs.com/focuses/10599?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Cloud%20Monitoring%20%20Qwik%20Start) |
@@ -32,10 +33,10 @@
 | [VPC Networks - Controlling Access](https://www.qwiklabs.com/focuses/1231?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](AI%20Platform%3A%20Qwik%20Start) |
 
 
-***Total Labs Available : 28***
+***Total Labs Available : 29***
 
-**Total Script Available : 25**
+**Total Script Available : 26**
 
-**Total Cheatsheet Avaiable : 18**
+**Total Cheatsheet Avaiable : 19**
 
 *You can Also add some scripts and cheatsheet for labs.
