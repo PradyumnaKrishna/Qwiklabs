@@ -1,0 +1,27 @@
+{
+  "displayName": "Inbound Traffic Alert",
+  "enabled": true,
+  "conditions": [
+    {
+      "conditionThreshold": {
+        "aggregations": [
+          {
+            "alignmentPeriod": "60s",
+            "crossSeriesReducer": "REDUCE_NONE",
+            "groupByFields": [],
+            "perSeriesAligner": "ALIGN_RATE"
+          }
+        ],
+        "comparison": "COMPARISON_GT",
+        "duration": "60s",
+        "filter": "metric.type=\"agent.googleapis.com/interface/traffic\" resource.type=\"gce_instance\"",
+        "thresholdValue": 500,
+        "trigger": {
+          "count": 1
+        }
+      },
+      "displayName": "GCE VM Instance - Network traffic"
+    }
+  ],
+  "combiner": "OR"
+}
