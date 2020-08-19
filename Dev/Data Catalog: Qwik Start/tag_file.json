@@ -1,0 +1,6 @@
+  {
+    "source": "BigQuery",
+    "num_rows": 1000,
+    "has_pii": true,
+    "pii_type": "EMAIL"
+  }
