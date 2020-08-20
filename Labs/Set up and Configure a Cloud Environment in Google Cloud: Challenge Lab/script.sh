@@ -121,3 +121,4 @@ then
     fi
   fi
 fi
+gcloud auth revoke --all

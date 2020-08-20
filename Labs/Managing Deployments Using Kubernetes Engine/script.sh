@@ -50,8 +50,8 @@ then
     then
       printf "\n\e[1m%s\n\n\e[m" 'Canary Deployment: Checkpoint Completed (2/2)'
       sleep 2.5
+      printf "\n\e[1;92m%s\n\n\e[m" 'Lab Completed'
     fi
   fi
 fi
-
-printf "\n\e[1m%s\n\n\e[m" 'Lab Completed'
+gcloud auth revoke --all

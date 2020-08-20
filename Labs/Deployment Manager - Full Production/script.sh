@@ -45,8 +45,8 @@ then
 	    --metadata=startup-script=sudo\ apt\ update$'\n'sudo\ apt\ -y\ install\ apache2-utils
   then
     printf "\n\e[1m%s\n\n\e[m" 'Test VM Created: Checkpoint Completed (3/3)'
+    sleep 2.5
+    printf "\n\e[1;92m%s\n\n\e[m" 'Lab Completed'
   fi
-  sleep 2
 fi
-
-echo "Lab Completed"
+gcloud auth revoke --all
