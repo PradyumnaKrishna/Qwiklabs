@@ -32,11 +32,12 @@
 | [Set up and Configure a Cloud Environment in Google Cloud: Challenge Lab](https://www.qwiklabs.com/focuses/10603?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Set%20up%20and%20Configure%20a%20Cloud%20Environment%20in%20Google%20Cloud%3A%20Challenge%20Lab) |
 | [VPC Networking Fundamentals](https://www.qwiklabs.com/focuses/1229?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](VPC%20Networking%20Fundamentals) |
 | [VPC Networks - Controlling Access](https://www.qwiklabs.com/focuses/1231?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](VPC%20Networks%20-%20Controlling%20Access) |
+| [Cloud Spanner: Qwik Start](https://www.qwiklabs.com/focuses/1156?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Cloud%20Spanner%3A%20Qwik%20Start) |
 
 
-***Total Labs Available : 30***
+***Total Labs Available : 31***
 
-**Total Script Available : 27**
+**Total Script Available : 28**
 
 **Total Cheatsheet Avaiable : 19**
 
