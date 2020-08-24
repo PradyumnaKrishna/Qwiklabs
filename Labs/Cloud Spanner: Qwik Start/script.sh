@@ -45,7 +45,7 @@ then
     printf "\n\e[1;96m%s\n\n\e[m" 'Database Schema Created: Checkpoint Completed (2/2)'
     sleep 2.5
 
-    gcloud auth revoke --all
     printf "\n\e[1;92m%s\n\n\e[m" 'Lab Completed'
   fi
 fi
+gcloud auth revoke --all
