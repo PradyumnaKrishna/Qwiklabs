@@ -49,7 +49,7 @@ then
     printf "\n\e[1;96m%s\n\n\e[m" 'Copied Table: Checkpoint Completed (2/3)'
     #sleep 2.5
 
-    printf "\e[1m%s\n\e[m" 'Please visit https://console.cloud.google.com/ and accept T&C regarding API\n'
+    printf "\e[1m%s\n\e[m" 'Please visit https://console.cloud.google.com/ and accept T&C regarding API'
     read -n 1 -r -s -p $'Press enter to continue\n'
 
     #Create a tag template and attach the tag to your table
