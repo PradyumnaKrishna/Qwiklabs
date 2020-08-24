@@ -93,7 +93,7 @@ then
               printf "\n\e[1;96m%s\n\n\e[m" 'Wordpress Deployed: Checkpoint Completed (7/9)'
               sleep 2.5
               
-              sed -i "s/""$ID"":us-central1:griffin-dev-db/<Instance>/g" wp-deployment.yaml
+              sed -i "s/<Instance>/""$ID"":us-central1:griffin-dev-db/g" wp-deployment.yaml
 
               # Enable Monitoring
               printf "\e[1m%s\n\e[m" 'There is no way to create an uptime check so do it on your own'
