@@ -10,6 +10,7 @@
 | [Cloud Monitoring: Qwik Start](https://www.qwiklabs.com/focuses/10599?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Cloud%20Monitoring%20%20Qwik%20Start) |
 | [Cloud Natural Language API: Qwik Start](https://www.qwiklabs.com/focuses/582?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Cloud%20Natural%20Language%20API%3A%20Qwik%20Start) |
 | [Cloud SQL for PostgreSQL: Qwik Start](https://www.qwiklabs.com/focuses/937?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Cloud%20SQL%20for%20PostgreSQL%3A%20Qwik%20Start) |
+| [Cloud Spanner: Qwik Start](https://www.qwiklabs.com/focuses/1156?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Cloud%20Spanner%3A%20Qwik%20Start) |
 | [Cloud Storage Qwik Start - CLI:SDK](https://www.qwiklabs.com/focuses/569?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Cloud%20Storage%20Qwik%20Start%20-%20CLI%3ASDK) |
 | [Creating a Virtual Machine](https://www.qwiklabs.com/focuses/3563?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Creating%20a%20Virtual%20Machine) |
 | [Dataflow: Qwik Start - Python](https://www.qwiklabs.com/focuses/1100?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Dataflow%3A%20Qwik%20Start%20-%20Python) |
@@ -17,6 +18,7 @@
 | [Dataproc: Qwik Start - Command Line](https://www.qwiklabs.com/focuses/585?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Dataproc%3A%20Qwik%20Start%20-%20Command%20Line) |
 | [Dataproc: Qwik Start - Console](https://www.qwiklabs.com/focuses/586?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Dataproc%3A%20Qwik%20Start%20-%20Console) |
 | [Deployment Manager - Full Production](https://www.qwiklabs.com/focuses/981?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Deployment%20Manager%20-%20Full%20Production) |
+| [ETL Processing on Google Cloud Using Dataflow and BigQuery](https://www.qwiklabs.com/focuses/3460?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](ETL%20Processing%20on%20Google%20Cloud%20Using%20Dataflow%20and%20BigQuery) |
 | [Entity and Sentiment Analysis with the Natural Language API](https://www.qwiklabs.com/focuses/1843?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Entity%20and%20Sentiment%20Analysis%20with%20the%20Natural%20Language%20API) |
 | [Getting Started with Cloud KMS](https://www.qwiklabs.com/focuses/1713?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Getting%20Started%20with%20Cloud%20KMS) |
 | [Getting Started with Cloud Shell & gcloud](https://www.qwiklabs.com/focuses/563?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Getting%20Started%20with%20Cloud%20Shell%20%26%20gcloud) |
@@ -32,12 +34,11 @@
 | [Set up and Configure a Cloud Environment in Google Cloud: Challenge Lab](https://www.qwiklabs.com/focuses/10603?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Set%20up%20and%20Configure%20a%20Cloud%20Environment%20in%20Google%20Cloud%3A%20Challenge%20Lab) |
 | [VPC Networking Fundamentals](https://www.qwiklabs.com/focuses/1229?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](VPC%20Networking%20Fundamentals) |
 | [VPC Networks - Controlling Access](https://www.qwiklabs.com/focuses/1231?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](VPC%20Networks%20-%20Controlling%20Access) |
-| [Cloud Spanner: Qwik Start](https://www.qwiklabs.com/focuses/1156?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Cloud%20Spanner%3A%20Qwik%20Start) |
 
 
-***Total Labs Available : 31***
+***Total Labs Available : 32***
 
-**Total Script Available : 28**
+**Total Script Available : 29**
 
 **Total Cheatsheet Avaiable : 19**
 

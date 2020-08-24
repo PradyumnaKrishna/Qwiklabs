@@ -30,7 +30,7 @@ if (gcloud spanner instances create test-instance \
     gcloud spanner databases create example-db)
 then
   printf "\n\e[1;96m%s\n\n\e[m" 'Instance & Database Created: Checkpoint Completed (1/2)'
-  #sleep 2.5
+  sleep 2.5
 
   # Create a schema for your database
   if gcloud spanner databases ddl update example-db \
