@@ -5,6 +5,7 @@
 | [AI Platform: Qwik Start](https://www.qwiklabs.com/focuses/581?parent=catalog) | :heavy_multiplication_x: | :heavy_check_mark: | [HERE](VPC%20Networks%20-%20Controlling%20Access) |
 | [App Engine: Qwik Start - Python](https://www.qwiklabs.com/focuses/1014?parent=catalog)  | :heavy_check_mark: | :heavy_check_mark: | [HERE](App%20Engine%20Qwik%20Start%20-%20Python) |
 | [Autoscaling an Instance Group with Custom Cloud Monitoring Metrics](https://www.qwiklabs.com/focuses/611?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Autoscaling%20an%20Instance%20Group%20with%20Custom%20Cloud%20Monitoring%20Metrics) |
+| [Cloud Composer: Copying BigQuery Tables Across Different Locations](https://www.qwiklabs.com/focuses/3528?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Cloud%20Composer%3A%20Copying%20BigQuery%20Tables%20Across%20Different%20Locations) |
 | [Cloud Functions: Qwik Start - Command Line](https://www.qwiklabs.com/focuses/916?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Cloud%20Functions%20Qwik%20Start%20-%20Command%20Line) |
 | [Cloud IAM: Qwik Start](https://www.qwiklabs.com/focuses/551?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Cloud%20IAM%20%20Qwik%20Start) |
 | [Cloud Monitoring: Qwik Start](https://www.qwiklabs.com/focuses/10599?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Cloud%20Monitoring%20%20Qwik%20Start) |
@@ -35,11 +36,10 @@
 | [VPC Networking Fundamentals](https://www.qwiklabs.com/focuses/1229?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](VPC%20Networking%20Fundamentals) |
 | [VPC Networks - Controlling Access](https://www.qwiklabs.com/focuses/1231?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](VPC%20Networks%20-%20Controlling%20Access) |
 
+***Total Labs Available : 33***
 
-***Total Labs Available : 32***
+**Total Script Available : 30**
 
-**Total Script Available : 29**
-
-**Total Cheatsheet Avaiable : 19**
+**Total Cheatsheet Avaiable : 20**
 
 *You can Also add some scripts and cheatsheet for labs.

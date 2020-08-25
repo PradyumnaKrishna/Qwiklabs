@@ -36,5 +36,5 @@ Also you can suggest some improvements becuase there are lots of bugs in google 
 [Contribution-Badge]:   https://img.shields.io/badge/Contributions-Active-ocean.svg
 [Donate]:               https://www.paypal.me/pradyumnakrishna
 [License-Badge]:        https://img.shields.io/badge/License-MIT-red.svg
-[Labs]:                 https://img.shields.io/badge/Labs-28-007EC7.svg
+[Labs]:                 https://img.shields.io/badge/Labs-30+-007EC7.svg
 [Pradyumna]:            https://pradyumna.me
