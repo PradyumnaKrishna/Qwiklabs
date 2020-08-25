@@ -34,7 +34,7 @@ export LOCATION="us-central1-b"
 if gsutil mb gs://$ID
 then
   printf "\n\e[1;96m%s\n\n\e[m" 'Bucket Created: Checkpoint Completed (1/4)'
-  #sleep 2.5
+  sleep 2.5
   
   printf "\e[1m%s\n\e[m" 'Please visit https://console.cloud.google.com/ and accept T&C regarding API'
   read -n 1 -r -s -p $'Press enter to continue\n'
@@ -46,7 +46,7 @@ then
         --machine-type=$MACHINE_TYPE --location=$LOCATION 
   then
     printf "\n\e[1;96m%s\n\n\e[m" 'AI Notebook Created: Checkpoint Completed (2/4)'
-    #sleep 2.5
+    sleep 2.5
 
     printf "\e[1m%s\n\e[m" 'For Further Lab Open Up the terminal in Jupter notebook run the commands given in start.sh\n'
     sleep 2.5
