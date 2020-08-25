@@ -22,10 +22,17 @@
 
 # Initializes the Configuration
 gcloud init < a
-gcloud config set compute/region us-central1
-gcloud config set compute/zone us-central1-c
 
-ID=$(gcloud info --format='value(config.project)')
+read -p "Wanna set project ID press y " -n 1 -r REPLY
+if [[ $REPLY =~ ^[Yy]$ ]]
+then
+  echo $'\nProject ID > '
+  read ID
+  gcloud config set project $ID
+else
+  ID=$(gcloud info --format='value(config.project)')
+fi
+
 
 API="$(gcloud iam service-accounts keys list \
   --iam-account $ID@$ID.iam.gserviceaccount.com | tail -n 1 | cut -c -40)"
