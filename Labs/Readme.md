@@ -13,6 +13,7 @@
 | [Cloud SQL for PostgreSQL: Qwik Start](https://www.qwiklabs.com/focuses/937?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Cloud%20SQL%20for%20PostgreSQL%3A%20Qwik%20Start) |
 | [Cloud Spanner: Qwik Start](https://www.qwiklabs.com/focuses/1156?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Cloud%20Spanner%3A%20Qwik%20Start) |
 | [Cloud Storage Qwik Start - CLI:SDK](https://www.qwiklabs.com/focuses/569?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Cloud%20Storage%20Qwik%20Start%20-%20CLI%3ASDK) |
+| [Creating a Data Transformation Pipeline with Cloud Dataprep](https://www.qwiklabs.com/focuses/4415?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Creating%20a%20Data%20Transformation%20Pipeline%20with%20Cloud%20Dataprep) |
 | [Creating a Virtual Machine](https://www.qwiklabs.com/focuses/3563?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Creating%20a%20Virtual%20Machine) |
 | [Dataflow: Qwik Start - Python](https://www.qwiklabs.com/focuses/1100?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Dataflow%3A%20Qwik%20Start%20-%20Python) |
 | [Dataflow: Qwik Start - Templates](https://www.qwiklabs.com/focuses/1101?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Dataflow%3A%20Qwik%20Start%20-%20Templates) |
@@ -37,9 +38,9 @@
 | [VPC Networking Fundamentals](https://www.qwiklabs.com/focuses/1229?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](VPC%20Networking%20Fundamentals) |
 | [VPC Networks - Controlling Access](https://www.qwiklabs.com/focuses/1231?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](VPC%20Networks%20-%20Controlling%20Access) |
 
-***Total Labs Available : 33***
+***Total Labs Available : 34***
 
-**Total Script Available : 30**
+**Total Script Available : 31**
 
 **Total Cheatsheet Avaiable : 20**
 
