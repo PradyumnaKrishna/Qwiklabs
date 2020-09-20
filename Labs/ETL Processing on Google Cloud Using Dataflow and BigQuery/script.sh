@@ -41,7 +41,7 @@ then
   sleep 2.5
 
   # Copy Files to Your Bucket
-  if (gsutil cp gs://spls/gsp290/data_files/usa_names.csv gs://$ID/data_files/ &&
+  if (gsutil cp gs://spls/gsp290/data_files/usa_names.csv gs://$ID/data_files/
       gsutil cp gs://spls/gsp290/data_files/head_usa_names.csv gs://$ID/data_files/)
   then
     printf "\n\e[1;96m%s\n\n\e[m" 'Files Copied: Checkpoint Completed (2/7)'
