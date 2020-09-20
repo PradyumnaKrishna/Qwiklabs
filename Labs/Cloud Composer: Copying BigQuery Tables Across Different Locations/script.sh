@@ -25,7 +25,7 @@ gcloud init < a
 ID=$(gcloud info --format='value(config.project)')
 
 # Create two Cloud Storage buckets.
-if (gsutil mb -l US gs://$ID-us &&
+if (gsutil mb -l US gs://$ID-us
     gsutil mb -l EU gs://$ID-eu)
 then
   printf "\n\e[1;96m%s\n\n\e[m" 'Bucket Created: Checkpoint Completed (2/4)'
@@ -48,9 +48,9 @@ then
       read -n 1 -r -s -p $'If Created Press ENTER\n'
 
       # Uploading the DAG and dependencies to Cloud Storage
-      if (DAGS_BUCKET=$(gsutil list | tail -n 1) &&
-          gsutil cp -r plugins/* ${DAGS_BUCKET}plugins &&
-          gsutil cp bq_copy_across_locations.py ${DAGS_BUCKET}dags &&
+      if (DAGS_BUCKET=$(gsutil list | tail -n 1)
+          gsutil cp -r plugins/* ${DAGS_BUCKET}plugins
+          gsutil cp bq_copy_across_locations.py ${DAGS_BUCKET}dags
           gsutil cp bq_copy_eu_to_us_sample.csv ${DAGS_BUCKET}dags)
       then
         printf "\n\e[1;96m%s\n\n\e[m" 'Upload Completed: Checkpoint Completed (4/4)'
