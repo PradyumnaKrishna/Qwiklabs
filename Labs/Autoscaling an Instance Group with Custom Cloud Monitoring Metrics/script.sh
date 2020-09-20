@@ -25,8 +25,8 @@ gcloud init < a
 ID=$(gcloud info --format='value(config.project)')
 
 # Create a GCS bucket
-if (gsutil mb gs://$ID &&
-gsutil cp -r gs://spls/gsp087/* gs://$ID)
+if (gsutil mb gs://$ID
+    gsutil cp -r gs://spls/gsp087/* gs://$ID)
 then
   printf "\n\e[1;96m%s\n\n\e[m" 'Bucket Created: Checkpoint Completed (1/4)'
   sleep 2.5
