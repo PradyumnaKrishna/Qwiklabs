@@ -31,9 +31,11 @@ gcloud config set compute/zone us-central1-c
 ID=$(gcloud info --format='value(config.project)')
 
 # Create development VPC manually
-if (gcloud compute networks create griffin-dev-vpc --subnet-mode custom &&
-gcloud compute networks subnets create griffin-dev-wp --network=griffin-dev-vpc --region=us-central1 --range=192.168.16.0/20 &&
-gcloud compute networks subnets create griffin-dev-mgmt --network=griffin-dev-vpc --region=us-central1 --range=192.168.32.0/20)
+if (gcloud compute networks create griffin-dev-vpc --subnet-mode custom
+    gcloud compute networks subnets create griffin-dev-wp --network=griffin-dev-vpc \
+        --region=us-central1 --range=192.168.16.0/20
+    gcloud compute networks subnets create griffin-dev-mgmt --network=griffin-dev-vpc \
+        --region=us-central1 --range=192.168.32.0/20)
 then
   printf "\n\e[1;96m%s\n\n\e[m" 'Created Development VPC: Checkpoint Completed (1/9)'
   sleep 2.5
@@ -47,12 +49,13 @@ then
     # Create bastion host
     if (gcloud compute instances create griffin-bastion --machine-type=n1-standard-1 \
           --network-interface subnet=griffin-dev-mgmt \
-          --network-interface subnet=griffin-prod-mgmt --tags bastion &&
+          --network-interface subnet=griffin-prod-mgmt --tags bastion
 
        gcloud compute firewall-rules create griffin-dev-mgmt-ssh-bastion \
           --direction=INGRESS --priority=1000 --network=griffin-dev-vpc \
           --action=ALLOW --rules=tcp:22 --source-ranges=0.0.0.0/0 \
-          --source-tags bastion &&
+          --source-tags bastion
+      
        gcloud compute firewall-rules create griffin-prod-mgmt-ssh-bastion \
           --direction=INGRESS --priority=1000 --network=griffin-prod-vpc \
           --action=ALLOW --rules=tcp:22 --source-ranges=0.0.0.0/0 --source-tags bastion)
@@ -61,7 +64,7 @@ then
       sleep 2.5
 
       # Create and configure Cloud SQL Instance
-      if (gcloud sql instances create griffin-dev-db &&
+      if (gcloud sql instances create griffin-dev-db
           gcloud sql connect griffin-dev-db < cp)
       then
         printf "\n\e[1;96m%s\n\n\e[m" 'SQL Instance Created: Checkpoint Completed (4/9)'
@@ -79,15 +82,15 @@ then
           sed -i "s/<Instance>/""$ID"":us-central1:griffin-dev-db/g" wp-deployment.yaml
 
           if (gcloud iam service-accounts keys create key.json \
-                  --iam-account=cloud-sql-proxy@$ID.iam.gserviceaccount.com &&
-              kubectl apply -f wp-env.yaml &&
+                  --iam-account=cloud-sql-proxy@$ID.iam.gserviceaccount.com
+              kubectl apply -f wp-env.yaml
               kubectl create secret generic cloudsql-instance-credentials --from-file key.json)
           then
             printf "\n\e[1;96m%s\n\n\e[m" 'Kubernetes Cluster Prepared: Checkpoint Completed (6/9)'
             sleep 2.5
 
             # Create a WordPress deployment
-            if (kubectl apply -f wp-deployment.yaml &&
+            if (kubectl apply -f wp-deployment.yaml
                 kubectl apply -f wp-service.yaml)
             then
               printf "\n\e[1;96m%s\n\n\e[m" 'Wordpress Deployed: Checkpoint Completed (7/9)'
