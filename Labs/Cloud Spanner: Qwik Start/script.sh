@@ -26,7 +26,7 @@ gcloud config set spanner/instance test-instance
 
 # Create an Instance and Database
 if (gcloud spanner instances create test-instance \
-      --config=regional-us-central1 --description="My Instance" --nodes=1 &&
+      --config=regional-us-central1 --description="My Instance" --nodes=1
     gcloud spanner databases create example-db)
 then
   printf "\n\e[1;96m%s\n\n\e[m" 'Instance & Database Created: Checkpoint Completed (1/2)'
