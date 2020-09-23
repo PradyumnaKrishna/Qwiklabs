@@ -27,7 +27,7 @@
 | [Google Cloud Essentials - Challange Lab](https://www.qwiklabs.com/focuses/1734?parent=catalog) | :heavy_multiplication_x: | :heavy_check_mark: | [HERE](Google%20Cloud%20Essentials%20-%20Challange%20Lab) |
 | [Google Cloud Pub/Sub: Qwik Start - Python](https://www.qwiklabs.com/focuses/2775?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Google%20Cloud%20Pub%3ASub%20-%20Qwik%20Start%20-%20Python) |
 | [Google Cloud Speech API: Qwik Start](https://www.qwiklabs.com/focuses/588?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Google%20Cloud%20Speech%20API%3A%20Qwik%20Start) |
-| [Internal Load Balancer](https://www.qwiklabs.com/focuses/1910?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Internal%20Load%20Balancer) |
+| [Internal Load Balancer](https://www.qwiklabs.com/focuses/1910?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Internal%20Load%20Balancer) |
 | [Introduction to SQL for BigQuery and Cloud SQL](https://www.qwiklabs.com/focuses/2802?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Introduction%20to%20SQL%20for%20BigQuery%20and%20Cloud%20SQL) |
 | [Kubernetes Engine: Qwik Start](https://www.qwiklabs.com/focuses/878?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Kubernetes%20Engine%3A%20Qwik%20Start) |
 | [Managing Deployments Using Kubernetes Engine](https://www.qwiklabs.com/focuses/639?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Managing%20Deployments%20Using%20Kubernetes%20Engine) |
@@ -39,10 +39,10 @@
 | [VPC Networking Fundamentals](https://www.qwiklabs.com/focuses/1229?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](VPC%20Networking%20Fundamentals) |
 | [VPC Networks - Controlling Access](https://www.qwiklabs.com/focuses/1231?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](VPC%20Networks%20-%20Controlling%20Access) |
 
-***Total Labs Available : 34***
+***Total Labs Available : 36***
 
-**Total Script Available : 31**
+**Total Script Available : 33**
 
-**Total Cheatsheet Avaiable : 20**
+**Total Cheatsheet Avaiable : 21**
 
 *You can Also add some scripts and cheatsheet for labs.
