@@ -25,7 +25,7 @@ gcloud init < a
 cluster='my-cluster'
 
 # Create a Kubernetes Engine cluster
-if  gcloud container clusters create $cluster
+if  gcloud container clusters create $cluster --no-enable-autoupgrade --no-enable-ip-alias
 then
   printf "\n\e[1;96m%s\n\n\e[m" 'Created Cluster: Checkpoint Completed (1/4)'
   sleep 2.5
