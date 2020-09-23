@@ -67,7 +67,7 @@
 
 **7. Create a WordPress deployment**
 
-    kubectl apply -f wp-deployment.yaml &&
+    kubectl apply -f wp-deployment.yaml
     kubectl apply -f wp-service.yaml
 
     sed -i "s/""$ID"":us-central1:griffin-dev-db/<Instance>/g" wp-deployment.yaml
