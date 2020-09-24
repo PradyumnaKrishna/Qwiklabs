@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/PradyumnaKrishna/PradyumnaKrishna/master/logo.svg" align="right" height="50" width="50"/>
+
 # Qwiklabs [![Labs][Labs]](Labs) [![Contributions Active][Contribution-Badge]](CONTRIBUTING.md) [![License: MIT][License-Badge]](LICENSE.md)
 
 - I started using Qwiklabs few months ago and started practicing with google cloud platform. In this repo I share you some tips, tricks and scripts to perform lab in a better and accurate way.
