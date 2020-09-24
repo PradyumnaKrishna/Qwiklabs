@@ -24,10 +24,10 @@ There are cheat sheet and script available for several labs
 	 - This lab is working fine. No need to add anything or change
 
  - **4th LAB : [Kubernetes Engine: Qwik Start](https://www.qwiklabs.com/focuses/878?parent=catalog)**
-	- **Lab Unavailable**
+	- This lab is working fine. No need to add anything or change
 
  - **5th LAB : [Set Up Network and HTTP Load Balancers](https://www.qwiklabs.com/focuses/12007?parent=catalog)**
-	- **Lab Unavailable**
+	- This lab is working fine. No need to add anything or change
 
  - **6th LAB : [Challange Lab](Challange%20Lab%2FChallange%20Lab.md)**
 	- This Lab is working fine. No need to add anything or change
