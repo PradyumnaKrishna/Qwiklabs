@@ -32,6 +32,7 @@
 | [Kubernetes Engine: Qwik Start](https://www.qwiklabs.com/focuses/878?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Kubernetes%20Engine%3A%20Qwik%20Start) |
 | [Managing Deployments Using Kubernetes Engine](https://www.qwiklabs.com/focuses/639?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Managing%20Deployments%20Using%20Kubernetes%20Engine) |
 | [Multiple VPC Networks](https://www.qwiklabs.com/focuses/1230?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Multiple%20VPC%20Networks) |
+| [Orchestrating the Cloud with Kubernetes](https://www.qwiklabs.com/focuses/557?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Orchestrating%20the%20Cloud%20with%20Kubernetes) |
 | [Perform Foundational Data, ML, and AI Tasks in Google Cloud - Challange Lab](https://www.qwiklabs.com/focuses/11044?parent=catalog) | :heavy_multiplication_x: | :heavy_check_mark: | [HERE](Perform%20Foundational%20Data%2C%20ML%2C%20and%20AI%20Tasks%20in%20Google%20Cloud%20-%20Challange%20Lab) |
 | [Predict Housing Prices with Tensorflow and AI Platform](https://www.qwiklabs.com/focuses/3644?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Predict%20Housing%20Prices%20with%20Tensorflow%20and%20AI%20Platform) |
 | [Securing Google Cloud with CFT Scorecard](https://www.qwiklabs.com/focuses/10437?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Securing%20Google%20Cloud%20with%20CFT%20Scorecard) |
@@ -40,10 +41,10 @@
 | [VPC Networking Fundamentals](https://www.qwiklabs.com/focuses/1229?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](VPC%20Networking%20Fundamentals) |
 | [VPC Networks - Controlling Access](https://www.qwiklabs.com/focuses/1231?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](VPC%20Networks%20-%20Controlling%20Access) |
 
-***Total Labs Available : 37***
+***Total Labs Available : 38***
 
-**Total Script Available : 34**
+**Total Script Available : 35**
 
-**Total Cheatsheet Avaiable : 22**
+**Total Cheatsheet Avaiable : 23**
 
 *You can Also add some scripts and cheatsheet for labs.
