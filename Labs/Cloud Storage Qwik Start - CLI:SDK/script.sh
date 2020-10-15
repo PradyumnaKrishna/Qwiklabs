@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /bin/bash
 
 ###################################################################################################################
 #                                                   MIT License                                                   # 
@@ -20,15 +20,32 @@
 # DEALINGS IN THE SOFTWARE.                                                                                       #
 ###################################################################################################################
 
-gcloud init < a 
 
-echo -n "Project ID ->"
-read ID
+#Initializing Configuration
+gcloud init < a
 
-gsutil mb gs://$ID
+ID=$(gcloud info --format='value(config.project)')
 
-gsutil cp ./ada.jpg gs://$ID/ada.jpg
+# Create a GCS Bucket
+if  gsutil mb gs://$ID
+  then
+  printf "\n\e[1;96m%s\n\n\e[m" 'Created Bucket: Checkpoint Completed (1/3)'
+  sleep 2.5
 
-gsutil cp gs://$ID/ada.jpg gs://$ID/image-folder/
+  # Copy an object to a folder in the bucket (ada.jpg)
+  if  gsutil cp ./ada.jpg gs://$ID/image-folder/ada.jpg
+    then
+    printf "\n\e[1;96m%s\n\n\e[m" 'File Copied: Checkpoint Completed (2/3)'
+    sleep 2.5
 
-gsutil acl ch -u AllUsers:R gs://$ID/ada.jpg
+    # Make your object publicly accessible
+    if  gsutil acl ch -u AllUsers:R gs://$ID/image-folder/ada.jpg
+    then
+      printf "\n\e[1;96m%s\n\n\e[m" 'Changed Permission: Checkpoint Completed (3/3)'
+      sleep 2.5
+
+      printf "\n\e[1;92m%s\n\n\e[m" 'Lab Completed'
+    fi
+  fi
+fi
+gcloud auth revoke --all
