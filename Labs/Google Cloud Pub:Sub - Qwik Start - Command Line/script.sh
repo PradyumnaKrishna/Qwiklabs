@@ -20,32 +20,22 @@
 # DEALINGS IN THE SOFTWARE.                                                                                       #
 ###################################################################################################################
 
-
-#Initializing Configuration
+# Initializing Configuration
 gcloud init < a
 
-ID=$(gcloud info --format='value(config.project)')
-
-# Create a GCS Bucket
-if  gsutil mb gs://$ID
+# Create a Pub/Sub topic
+if  gcloud pubsub topics create myTopic
 then
-  printf "\n\e[1;96m%s\n\n\e[m" 'Created Bucket: Checkpoint Completed (1/3)'
+  printf "\n\e[1;96m%s\n\n\e[m" 'Pub/Sub topic Created: Checkpoint Completed (1/2)'
   sleep 2.5
 
-  # Copy an object to a folder in the bucket (ada.jpg)
-  if  gsutil cp ./ada.jpg gs://$ID/image-folder/ada.jpg
+  # Create Pub/Sub Subscription
+  if  gcloud  pubsub subscriptions create --topic myTopic mySubscription
   then
-    printf "\n\e[1;96m%s\n\n\e[m" 'File Copied: Checkpoint Completed (2/3)'
+    printf "\n\e[1;96m%s\n\n\e[m" 'Pub/Sub Subscription Created: Checkpoint Completed (2/2)'
     sleep 2.5
 
-    # Make your object publicly accessible
-    if  gsutil acl ch -u AllUsers:R gs://$ID/image-folder/ada.jpg
-    then
-      printf "\n\e[1;96m%s\n\n\e[m" 'Changed Permission: Checkpoint Completed (3/3)'
-      sleep 2.5
-
-      printf "\n\e[1;92m%s\n\n\e[m" 'Lab Completed'
-    fi
+    printf "\n\e[1;92m%s\n\n\e[m" 'Lab Completed'
   fi
 fi
 gcloud auth revoke --all

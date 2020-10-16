@@ -26,6 +26,7 @@
 | [Getting Started with Cloud Shell & gcloud](https://www.qwiklabs.com/focuses/563?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Getting%20Started%20with%20Cloud%20Shell%20%26%20gcloud) |
 | [Google Cloud Essentials - Challange Lab](https://www.qwiklabs.com/focuses/1734?parent=catalog) | :heavy_multiplication_x: | :heavy_check_mark: | [HERE](Google%20Cloud%20Essentials%20-%20Challange%20Lab) |
 | [Google Cloud Pub/Sub: Qwik Start - Python](https://www.qwiklabs.com/focuses/2775?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Google%20Cloud%20Pub%3ASub%20-%20Qwik%20Start%20-%20Python) |
+| [Google Cloud Pub:Sub - Qwik Start - Command Line](https://www.qwiklabs.com/focuses/925?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Google%20Cloud%20Pub%3ASub%20-%20Qwik%20Start%20-%20Command%20Line) |
 | [Google Cloud Speech API: Qwik Start](https://www.qwiklabs.com/focuses/588?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Google%20Cloud%20Speech%20API%3A%20Qwik%20Start) |
 | [Internal Load Balancer](https://www.qwiklabs.com/focuses/1910?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](Internal%20Load%20Balancer) |
 | [Introduction to SQL for BigQuery and Cloud SQL](https://www.qwiklabs.com/focuses/2802?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [HERE](Introduction%20to%20SQL%20for%20BigQuery%20and%20Cloud%20SQL) |
@@ -41,10 +42,10 @@
 | [VPC Networking Fundamentals](https://www.qwiklabs.com/focuses/1229?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](VPC%20Networking%20Fundamentals) |
 | [VPC Networks - Controlling Access](https://www.qwiklabs.com/focuses/1231?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [HERE](VPC%20Networks%20-%20Controlling%20Access) |
 
-***Total Labs Available : 38***
+***Total Labs Available : 39***
 
-**Total Script Available : 35**
+**Total Script Available : 36**
 
-**Total Cheatsheet Avaiable : 23**
+**Total Cheatsheet Avaiable : 24**
 
 *You can Also add some scripts and cheatsheet for labs.

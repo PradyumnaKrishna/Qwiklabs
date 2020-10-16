@@ -27,7 +27,7 @@ export ID=$(gcloud info --format='value(config.project)')
 
 # Create a cloud storage bucket
 if  gsutil mb gs://$ID
-  then
+then
   printf "\n\e[1;96m%s\n\n\e[m" 'Created Bucket: Checkpoint Completed (1/2)'
   sleep 2.5
 
@@ -36,13 +36,13 @@ if  gsutil mb gs://$ID
           --stage-bucket $ID \
           --trigger-topic hello_world \
           --runtime nodejs8
-    then
+  then
     printf "\n\e[1;96m%s\n\n\e[m" 'Function Deployed: Checkpoint Completed (2/2)'
     sleep 2.5
 
     printf "\n\e[1;92m%s\n\n\e[m" 'Lab Completed'
 
-    else
+  else
     printf "\n\e[1;93m%s\n\n\e[m" 'Retrying'
     sleep 5
 
@@ -50,7 +50,7 @@ if  gsutil mb gs://$ID
             --stage-bucket $ID \
             --trigger-topic hello_world \
             --runtime nodejs8
-      then
+    then
       printf "\n\e[1;96m%s\n\n\e[m" 'Function Deployed: Checkpoint Completed (2/2)'
       sleep 2.5
 
