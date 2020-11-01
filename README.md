@@ -2,7 +2,7 @@
 
 # Qwiklabs [![Labs][Labs]](Labs) [![Contributions Active][Contribution-Badge]](CONTRIBUTING.md) [![License: MIT][License-Badge]](LICENSE.md)
 
-- I started using Qwiklabs few months ago and started practicing with google cloud platform. In this repo I share you some tips, tricks and scripts to perform lab in a better and accurate way.
+- Working on a new Tool `qwikrun`, to know more change branch to Qwikrun.
 
 - In this repo I am sharing you some main **Quest Scripts and Cheat sheet** so you can easily perform lab without any issue.
 
@@ -28,14 +28,7 @@ Also you can suggest some improvements becuase there are lots of bugs in google 
 
 - **[Donate Us][Donate]**
 
-## Credits
-- **[Pradyumna Krishna][Pradyumna]**
-
-- **[Abhinandan Arya][Abhinandan]**
-
-[Abhinandan]:           https://github.com/abhinandanarya06
 [Contribution-Badge]:   https://img.shields.io/badge/Contributions-Active-ocean.svg
 [Donate]:               https://www.paypal.me/pradyumnakrishna
 [License-Badge]:        https://img.shields.io/badge/License-MIT-red.svg
-[Labs]:                 https://img.shields.io/badge/Labs-35+-007EC7.svg
-[Pradyumna]:            https://pradyumna.me
+[Labs]:                 https://img.shields.io/badge/Labs-40+-007EC7.svg
