@@ -28,6 +28,7 @@
 | [Google Cloud Pub/Sub: Qwik Start - Python](https://www.qwiklabs.com/focuses/2775?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [2775](2775) |
 | [Google Cloud Pub:Sub - Qwik Start - Command Line](https://www.qwiklabs.com/focuses/925?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [925](925) |
 | [Google Cloud Speech API: Qwik Start](https://www.qwiklabs.com/focuses/588?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [588](588) |
+| [IAM Custom Roles](https://www.qwiklabs.com/focuses/1035?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1035](1035) |
 | [Internal Load Balancer](https://www.qwiklabs.com/focuses/1910?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1910](1910) |
 | [Introduction to SQL for BigQuery and Cloud SQL](https://www.qwiklabs.com/focuses/2802?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [2802](2802) |
 | [Kubernetes Engine: Qwik Start](https://www.qwiklabs.com/focuses/878?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [878](878) |
