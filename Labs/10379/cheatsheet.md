@@ -2,8 +2,8 @@
 
 **Initialization**
 
-    wget https://github.com/PradyumnaKrishna/Qwiklabs/raw/master/Labs/Perform%20Foundational%20Infrastructure%20Tasks%20in%20Google%20Cloud%3A%20Challenge%20Lab/index.js
-    wget https://github.com/PradyumnaKrishna/Qwiklabs/raw/master/Labs/Perform%20Foundational%20Infrastructure%20Tasks%20in%20Google%20Cloud%3A%20Challenge%20Lab/package.json
+    wget https://github.com/PradyumnaKrishna/Qwiklabs/raw/master/Labs/10379/index.js
+    wget https://github.com/PradyumnaKrishna/Qwiklabs/raw/master/Labs/10379/package.json
 
     ID=$(gcloud info --format='value(config.project)')
 

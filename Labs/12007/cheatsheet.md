@@ -2,7 +2,7 @@
 
 **Initialization**
 
-    wget https://raw.githubusercontent.com/PradyumnaKrishna/Qwiklabs/master/Labs/Set%20Up%20Network%20and%20HTTP%20Load%20Balancers/startup.sh
+    wget https://raw.githubusercontent.com/PradyumnaKrishna/Qwiklabs/master/Labs/12007/startup.sh
 
 **1. Create a group of webservers**
 

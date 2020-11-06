@@ -8,7 +8,7 @@
     ID=$(gcloud info --format='value(config.project)')
 
     git clone https://github.com/PradyumnaKrishna/Qwiklabs.git
-    cd Qwiklabs/Labs/Set\ up\ and\ Configure\ a\ Cloud\ Environment\ in\ Google\ Cloud:\ Challenge\ Lab/
+    cd Qwiklabs/Labs/10603
 
 
 **1. Create development VPC manually**

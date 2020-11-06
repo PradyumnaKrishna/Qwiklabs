@@ -4,7 +4,7 @@
 
     git clone https://github.com/PradyumnaKrishna/Qwiklabs.git
 
-    cd Qwiklabs/Labs/Managing\ Deployments\ Using\ Kubernetes\ Engine/kubernetes/
+    cd Qwiklabs/Labs/639
 
 **2. Create Cluster with 5 Nodes**
 

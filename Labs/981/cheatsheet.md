@@ -3,7 +3,7 @@
 **1. Clone Repository**
 
     git clone https://github.com/PradyumnaKrishna/Qwiklabs.git
-    cd Qwiklabs/Labs/Deployment\ Manager\ -\ Full\ Production/Deployment/nodejs/python/
+    cd Qwiklabs/Labs/981
 
 **2. Run the Application**
 

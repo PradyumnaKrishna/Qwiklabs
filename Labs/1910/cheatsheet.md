@@ -2,8 +2,8 @@
 
 **Initialization**
 
-    wget https://github.com/PradyumnaKrishna/Qwiklabs/raw/master/Labs/Internal%20Load%20Balancer/backend.sh
-    wget https://github.com/PradyumnaKrishna/Qwiklabs/raw/master/Labs/Internal%20Load%20Balancer/frontend.sh
+    wget https://github.com/PradyumnaKrishna/Qwiklabs/raw/master/Labs/1910/backend.sh
+    wget https://github.com/PradyumnaKrishna/Qwiklabs/raw/master/Labs/1910/frontend.sh
 
 **1. Create Backend Managed Instance Group**
 
