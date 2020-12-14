@@ -5,6 +5,7 @@
 | [AI Platform: Qwik Start](https://www.qwiklabs.com/focuses/581?parent=catalog) | :heavy_multiplication_x: | :heavy_check_mark: | [581](581) |
 | [App Engine: Qwik Start - Python](https://www.qwiklabs.com/focuses/1014?parent=catalog)  | :heavy_check_mark: | :heavy_check_mark: | [1014](1014) |
 | [Autoscaling an Instance Group with Custom Cloud Monitoring Metrics](https://www.qwiklabs.com/focuses/611?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [611](611) |
+| [Building an IoT Analytics Pipeline on Google Cloud](https://www.qwiklabs.com/focuses/605?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [605](605) |
 | [Cloud Composer: Copying BigQuery Tables Across Different Locations](https://www.qwiklabs.com/focuses/3528?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [3528](3528) |
 | [Cloud Functions: Qwik Start - Command Line](https://www.qwiklabs.com/focuses/916?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [916](916) |
 | [Cloud IAM: Qwik Start](https://www.qwiklabs.com/focuses/551?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [551](551) |
@@ -44,10 +45,10 @@
 | [VPC Networking Fundamentals](https://www.qwiklabs.com/focuses/1229?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1229](1229) |
 | [VPC Networks - Controlling Access](https://www.qwiklabs.com/focuses/1231?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1231](1231) |
 
-***Total Labs Available : 40***
+***Total Labs Available : 42***
 
-**Total Script Available : 37**
+**Total Script Available : 38**
 
-**Total Cheatsheet Avaiable : 25**
+**Total Cheatsheet Avaiable : 29**
 
 *You can Also add some scripts and cheatsheet for labs.
