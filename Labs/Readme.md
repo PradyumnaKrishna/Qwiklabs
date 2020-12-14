@@ -31,7 +31,7 @@
 | [Google Cloud Speech API: Qwik Start](https://www.qwiklabs.com/focuses/588?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [588](588) |
 | [IAM Custom Roles](https://www.qwiklabs.com/focuses/1035?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1035](1035) |
 | [Internal Load Balancer](https://www.qwiklabs.com/focuses/1910?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1910](1910) |
-| [Introduction to SQL for BigQuery and Cloud SQL](https://www.qwiklabs.com/focuses/2802?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [2802](2802) |
+| [Introduction to SQL for BigQuery and Cloud SQL](https://www.qwiklabs.com/focuses/2802?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [2802](2802) |
 | [Kubernetes Engine: Qwik Start](https://www.qwiklabs.com/focuses/878?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [878](878) |
 | [Managing Deployments Using Kubernetes Engine](https://www.qwiklabs.com/focuses/639?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [639](639) |
 | [Multiple VPC Networks](https://www.qwiklabs.com/focuses/1230?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1230](1230) |
@@ -51,4 +51,12 @@
 
 **Total Cheatsheet Avaiable : 29**
 
-*You can Also add some scripts and cheatsheet for labs.
+**Upcoming Scripts**
+- **863**: Deployment Manager: Qwik Start
+- **3638**: Troubleshooting and Solving Data Join Pitfalls
+- **3642**: Troubleshooting Common SQL Errors with BigQuery
+- **7830**: Optimizing Cost with Google Cloud Storage
+- **7847**: Setting Up Cost Control with Quota
+- **14294**: Create ML Models with BigQuery ML: Challenge Lab
+
+<sub>*You can Also add some scripts and cheatsheet for labs<sub>
