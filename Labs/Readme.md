@@ -44,15 +44,15 @@
 | [Set up and Configure a Cloud Environment in Google Cloud: Challenge Lab](https://www.qwiklabs.com/focuses/10603?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [10603](10603) |
 | [VPC Networking Fundamentals](https://www.qwiklabs.com/focuses/1229?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1229](1229) |
 | [VPC Networks - Controlling Access](https://www.qwiklabs.com/focuses/1231?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1231](1231) |
+| [Deployment Manager: Qwik Start](https://www.qwiklabs.com/focuses/863?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [863](863) |
 
-***Total Labs Available : 42***
+***Total Labs Available : 43***
 
-**Total Script Available : 38**
+**Total Script Available : 39**
 
-**Total Cheatsheet Avaiable : 29**
+**Total Cheatsheet Avaiable : 30**
 
 **Upcoming Scripts**
-- **863**: Deployment Manager: Qwik Start
 - **3638**: Troubleshooting and Solving Data Join Pitfalls
 - **3642**: Troubleshooting Common SQL Errors with BigQuery
 - **7830**: Optimizing Cost with Google Cloud Storage
