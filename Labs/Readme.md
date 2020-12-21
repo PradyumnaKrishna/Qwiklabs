@@ -43,20 +43,24 @@
 | [Securing Google Cloud with CFT Scorecard](https://www.qwiklabs.com/focuses/10437?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [10437](10437) |
 | [Set Up Network and HTTP Load Balancers](https://www.qwiklabs.com/focuses/12007?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [12007](12007) |
 | [Set up and Configure a Cloud Environment in Google Cloud: Challenge Lab](https://www.qwiklabs.com/focuses/10603?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [10603](10603) |
+| [Troubleshooting Common SQL Errors with BigQuery](https://www.qwiklabs.com/focuses/3642?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [3642](3642) |
 | [Troubleshooting and Solving Data Join Pitfalls](https://www.qwiklabs.com/focuses/3638?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [3638](3638) |
 | [VPC Networking Fundamentals](https://www.qwiklabs.com/focuses/1229?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1229](1229) |
 | [VPC Networks - Controlling Access](https://www.qwiklabs.com/focuses/1231?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1231](1231) |
 
-***Total Labs Available : 44***
 
-**Total Script Available : 40**
+***Total Labs Available : 45***
 
-**Total Cheatsheet Avaiable : 31**
+**Total Script Available : 41**
+
+**Total Cheatsheet Avaiable : 32**
 
 **Upcoming Scripts**
-- **3642**: Troubleshooting Common SQL Errors with BigQuery
 - **7830**: Optimizing Cost with Google Cloud Storage
 - **7847**: Setting Up Cost Control with Quota
 - **14294**: Create ML Models with BigQuery ML: Challenge Lab
+- **560**: Compute Engine: Qwik Start - Windows
+- **1074**: App Dev: Setting up a Development Environment - Python
+- **1029**: Introduction to Docker (Cheatsheet Only)
 
 <sub>*You can Also add some scripts and cheatsheet for labs<sub>
