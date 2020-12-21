@@ -21,6 +21,7 @@
 | [Dataproc: Qwik Start - Command Line](https://www.qwiklabs.com/focuses/585?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [585](585) |
 | [Dataproc: Qwik Start - Console](https://www.qwiklabs.com/focuses/586?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [586](586) |
 | [Deployment Manager - Full Production](https://www.qwiklabs.com/focuses/981?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [981](981) |
+| [Deployment Manager: Qwik Start](https://www.qwiklabs.com/focuses/863?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [863](863) |
 | [ETL Processing on Google Cloud Using Dataflow and BigQuery](https://www.qwiklabs.com/focuses/3460?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [3460](3460) |
 | [Entity and Sentiment Analysis with the Natural Language API](https://www.qwiklabs.com/focuses/1843?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [1843](1843) |
 | [Getting Started with Cloud KMS](https://www.qwiklabs.com/focuses/1713?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1713](1713) |
@@ -42,18 +43,17 @@
 | [Securing Google Cloud with CFT Scorecard](https://www.qwiklabs.com/focuses/10437?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [10437](10437) |
 | [Set Up Network and HTTP Load Balancers](https://www.qwiklabs.com/focuses/12007?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [12007](12007) |
 | [Set up and Configure a Cloud Environment in Google Cloud: Challenge Lab](https://www.qwiklabs.com/focuses/10603?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [10603](10603) |
+| [Troubleshooting and Solving Data Join Pitfalls](https://www.qwiklabs.com/focuses/3638?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [3638](3638) |
 | [VPC Networking Fundamentals](https://www.qwiklabs.com/focuses/1229?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1229](1229) |
 | [VPC Networks - Controlling Access](https://www.qwiklabs.com/focuses/1231?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1231](1231) |
-| [Deployment Manager: Qwik Start](https://www.qwiklabs.com/focuses/863?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [863](863) |
 
-***Total Labs Available : 43***
+***Total Labs Available : 44***
 
-**Total Script Available : 39**
+**Total Script Available : 40**
 
-**Total Cheatsheet Avaiable : 30**
+**Total Cheatsheet Avaiable : 31**
 
 **Upcoming Scripts**
-- **3638**: Troubleshooting and Solving Data Join Pitfalls
 - **3642**: Troubleshooting Common SQL Errors with BigQuery
 - **7830**: Optimizing Cost with Google Cloud Storage
 - **7847**: Setting Up Cost Control with Quota
