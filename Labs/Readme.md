@@ -14,6 +14,7 @@
 | [Cloud SQL for PostgreSQL: Qwik Start](https://www.qwiklabs.com/focuses/937?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [937](937) |
 | [Cloud Spanner: Qwik Start](https://www.qwiklabs.com/focuses/1156?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [1156](1156) |
 | [Cloud Storage Qwik Start - CLI:SDK](https://www.qwiklabs.com/focuses/569?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [569](569) |
+| [Compute Engine: Qwik Start - Windows](https://www.qwiklabs.com/focuses/560?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [560](560) |
 | [Creating a Data Transformation Pipeline with Cloud Dataprep](https://www.qwiklabs.com/focuses/4415?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [4415](4415) |
 | [Creating a Virtual Machine](https://www.qwiklabs.com/focuses/3563?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [3563](3563) |
 | [Dataflow: Qwik Start - Python](https://www.qwiklabs.com/focuses/1100?parent=catalog) | :heavy_check_mark: | :heavy_multiplication_x: | [1100](1100) |
@@ -49,17 +50,16 @@
 | [VPC Networks - Controlling Access](https://www.qwiklabs.com/focuses/1231?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1231](1231) |
 
 
-***Total Labs Available : 45***
+***Total Labs Available : 46***
 
-**Total Script Available : 41**
+**Total Script Available : 43**
 
-**Total Cheatsheet Avaiable : 32**
+**Total Cheatsheet Avaiable : 33**
 
 **Upcoming Scripts**
 - **7830**: Optimizing Cost with Google Cloud Storage
 - **7847**: Setting Up Cost Control with Quota
 - **14294**: Create ML Models with BigQuery ML: Challenge Lab
-- **560**: Compute Engine: Qwik Start - Windows
 - **1074**: App Dev: Setting up a Development Environment - Python
 - **1029**: Introduction to Docker (Cheatsheet Only)
 
