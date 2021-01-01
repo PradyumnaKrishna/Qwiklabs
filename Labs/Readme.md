@@ -3,6 +3,7 @@
 | Lab | Script | Cheatsheet | Location |
 | --- | :----: | :--------: | :------: |
 | [AI Platform: Qwik Start](https://www.qwiklabs.com/focuses/581?parent=catalog) | :heavy_multiplication_x: | :heavy_check_mark: | [581](581) |
+| [App Dev: Setting up a Development Environment - Python](https://www.qwiklabs.com/focuses/1074?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1074](1074) |
 | [App Engine: Qwik Start - Python](https://www.qwiklabs.com/focuses/1014?parent=catalog)  | :heavy_check_mark: | :heavy_check_mark: | [1014](1014) |
 | [Autoscaling an Instance Group with Custom Cloud Monitoring Metrics](https://www.qwiklabs.com/focuses/611?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [611](611) |
 | [Building an IoT Analytics Pipeline on Google Cloud](https://www.qwiklabs.com/focuses/605?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [605](605) |
@@ -44,23 +45,22 @@
 | [Securing Google Cloud with CFT Scorecard](https://www.qwiklabs.com/focuses/10437?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [10437](10437) |
 | [Set Up Network and HTTP Load Balancers](https://www.qwiklabs.com/focuses/12007?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [12007](12007) |
 | [Set up and Configure a Cloud Environment in Google Cloud: Challenge Lab](https://www.qwiklabs.com/focuses/10603?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [10603](10603) |
+| [Setting Up Cost Control with Quota](https://www.qwiklabs.com/focuses/7847?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [7847](7847) |
 | [Troubleshooting Common SQL Errors with BigQuery](https://www.qwiklabs.com/focuses/3642?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [3642](3642) |
 | [Troubleshooting and Solving Data Join Pitfalls](https://www.qwiklabs.com/focuses/3638?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [3638](3638) |
 | [VPC Networking Fundamentals](https://www.qwiklabs.com/focuses/1229?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1229](1229) |
 | [VPC Networks - Controlling Access](https://www.qwiklabs.com/focuses/1231?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1231](1231) |
-| [Setting Up Cost Control with Quota](https://www.qwiklabs.com/focuses/7847?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1231](1231) |
 
+***Total Labs Available : 48***
 
-***Total Labs Available : 47***
+**Total Script Available : 45**
 
-**Total Script Available : 44**
-
-**Total Cheatsheet Avaiable : 34**
+**Total Cheatsheet Avaiable : 35**
 
 **Upcoming Scripts**
 - **7830**: Optimizing Cost with Google Cloud Storage
 - **14294**: Create ML Models with BigQuery ML: Challenge Lab
-- **1074**: App Dev: Setting up a Development Environment - Python
 - **1029**: Introduction to Docker (Cheatsheet Only)
 
+<h2></h2>
 <sub>*You can Also add some scripts and cheatsheet for labs<sub>
