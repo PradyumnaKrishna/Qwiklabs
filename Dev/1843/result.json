@@ -1,0 +1,21 @@
+{
+  "entities": [
+    {
+      "name": "Joanne Rowling",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/J._K._Rowling",
+        "mid": "/m/042xh"
+      },
+      "salience": 0.79828626,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joanne Rowling",
+            "beginOffset": 0
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Rowling",
