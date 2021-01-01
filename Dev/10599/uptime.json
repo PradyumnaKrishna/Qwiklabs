@@ -1,0 +1,17 @@
+{
+  "displayName": "Lamp Uptime Check",
+  "monitoredResource": {
+    "type": "gce_instance",
+    "labels": {
+      "zone": "us-central1-a",
+      "instance_id": "<Instance_ID>"
+    }
+  },
+  "httpCheck": {
+    "path": "/",
+    "port": 80,
+    "requestMethod": "GET"
+  },
+  "period": "60s",
+  "timeout": "10s"
+}
