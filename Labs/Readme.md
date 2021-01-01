@@ -48,17 +48,17 @@
 | [Troubleshooting and Solving Data Join Pitfalls](https://www.qwiklabs.com/focuses/3638?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [3638](3638) |
 | [VPC Networking Fundamentals](https://www.qwiklabs.com/focuses/1229?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1229](1229) |
 | [VPC Networks - Controlling Access](https://www.qwiklabs.com/focuses/1231?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1231](1231) |
+| [Setting Up Cost Control with Quota](https://www.qwiklabs.com/focuses/7847?parent=catalog) | :heavy_check_mark: | :heavy_check_mark: | [1231](1231) |
 
 
-***Total Labs Available : 46***
+***Total Labs Available : 47***
 
-**Total Script Available : 43**
+**Total Script Available : 44**
 
-**Total Cheatsheet Avaiable : 33**
+**Total Cheatsheet Avaiable : 34**
 
 **Upcoming Scripts**
 - **7830**: Optimizing Cost with Google Cloud Storage
-- **7847**: Setting Up Cost Control with Quota
 - **14294**: Create ML Models with BigQuery ML: Challenge Lab
 - **1074**: App Dev: Setting up a Development Environment - Python
 - **1029**: Introduction to Docker (Cheatsheet Only)
