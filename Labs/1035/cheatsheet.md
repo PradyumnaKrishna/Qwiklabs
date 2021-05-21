@@ -6,10 +6,10 @@
 
 **1. Creating a custom role**
 
-    gcloud iam roles create viewer --project $ID \
-        --title "Role Viewer" \
-        --description "Custom role description." \
-        --permissions compute.instances.get,compute.instances.list \
+    gcloud iam roles create editor --project $ID \
+        --title "Role Editor" \
+        --description "Edit access for App Versions" \
+        --permissions appengine.versions.create,appengine.versions.delete \
         --stage ALPHA
 
     gcloud iam roles create viewer --project $ID \
