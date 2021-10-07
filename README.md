@@ -26,7 +26,7 @@ Also you can suggest some improvements becuase there are lots of bugs in google 
 
 - **Sponser This Repo**
 
-- **[Donate Us][Donate]**
+- **[Donate Us][Donate]** 
 
 [Contribution-Badge]:   https://img.shields.io/badge/Contributions-Active-ocean.svg
 [Donate]:               https://www.paypal.me/pradyumnakrishna
