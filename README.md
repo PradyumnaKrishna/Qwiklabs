@@ -1,8 +1,6 @@
-<img src="https://raw.githubusercontent.com/PradyumnaKrishna/PradyumnaKrishna/master/logo.svg" align="right" height="50" width="50"/>
-
 # Qwiklabs [![Labs][Labs]](Labs) [![Contributions Active][Contribution-Badge]](CONTRIBUTING.md) [![License: MIT][License-Badge]](LICENSE.md)
 
-- **Working on a new Tool `qwikrun`.**
+<p align="center"><b>THIS REPOSITORY IS DEPRECATED AND HAS BEEN <a href="https://github.com/PradyumnaKrishna/Qwiklabs/issues/4">ARCHIVED</a>.</b></p>
 
 - In this repo I am sharing you some main **Quest Scripts and Cheat sheet** so you can easily perform lab without any issue.
 
